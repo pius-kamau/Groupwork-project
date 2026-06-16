@@ -41,8 +41,8 @@ class Program
         Console.WriteLine("Hello, World!");
     }
 }
-
-Advantages of C#
+```
+## Advantages of C#
 Clean and structured syntax
 Strong community and Microsoft support
 High performance for enterprise applications
