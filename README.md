@@ -1,22 +1,68 @@
-# Useful Tools for Students
+# Programming Languages Overview
 
-A collaborative guide by [list all team member names].
+A collaborative guide created by our team of 7 members covering popular programming languages, their uses, and importance in software development.
+
+## Team Members
+
+- Pius Kamau
+- Edwin Muguro
+- Judy Wakaba
+- Hild Mwangi
 
 ## Table of Contents
+
 - [Introduction](#introduction)
-- [VS Code](#vs-code)
-- [Notion](#notion)
-- [Canva](#canva)
+- [JavaScript](#javascript)
+- [Java](#java)
+- [C#](#c)
+- [C++](#c)
 
 ## Introduction
-This guide covers tools that every student should know about.
-Each section is written by a different team member.
 
-## VS Code
-<!-- [Team Member 1 Name] will write this section -->
+Programming languages are tools developers use to create software, websites, mobile applications, and systems. This guide explains different programming languages, their common uses, and their importance in software development.
 
-## Notion
-<!-- [Team Member 2 Name] will write this section -->
 
-## Canva
-<!-- [Team Member 3 Name] will write this section -->
+## JavaScript
+
+**Written by: Pius Kamau**
+
+JavaScript is a popular programming language used to create interactive and dynamic websites. It allows developers to add functionality, animations, and real-time features to web applications.
+
+### Why Learn JavaScript?
+
+- It is one of the most popular programming languages.
+- It works in all modern web browsers.
+- It is used for both frontend and backend development.
+- It has powerful frameworks and libraries.
+
+### Common Uses of JavaScript
+
+- Web development
+- Mobile applications
+- Server-side development
+- Interactive websites
+- Game development
+
+### Advantages of JavaScript
+
+- Easy to learn
+- Large developer community
+- Many learning resources available
+- Works across different platforms
+
+### Useful Link
+
+[JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Java
+**Written by: Edwin Muguro**
+
+## C#
+**Written by: Judy Wakaba**
+
+## C++
+**Written by: Hild Mwangi**
+
+
+
+
